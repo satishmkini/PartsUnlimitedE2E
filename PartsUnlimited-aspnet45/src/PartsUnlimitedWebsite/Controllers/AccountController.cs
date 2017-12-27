@@ -8,7 +8,6 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using PartsUnlimited.Models;
 
-
 namespace PartsUnlimited.Controllers
 {
     [Authorize]
